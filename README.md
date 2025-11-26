@@ -51,6 +51,13 @@ Merhaba, ben **Muhammed Talha**. Yazılım dünyasında kendimi geliştirmeye de
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaagny&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhaagny&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaagny&layout=compact&theme=dark" height="180" alt="Top Languages" />
+</div>
 
 ---
 
