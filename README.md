@@ -44,7 +44,7 @@ Merhaba, ben **Muhammed Talha**. Yazılım dünyasında kendimi geliştirmeye de
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KullanıcıAdın&show_icons=true&theme=tokyonight&locale=tr&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talhaagny&show_icons=true&theme=tokyonight&locale=tr&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaagny&layout=compact&theme=tokyonight&locale=tr&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
