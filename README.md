@@ -1,4 +1,4 @@
-<h1 align="center">Selam 👋, Ben [Adın]</h1>
+<h1 align="center">Selam 👋, Ben [Muhammed Talha Güney]</h1>
 <h3 align="center">Kocaeli Üniversitesi'nde Öğrenci & Yazılım Geliştirici</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 - 🎓 Şu anda **Kocaeli Üniversitesi'nde** eğitimime devam ediyorum.
 - 💻 **C++** ve algoritma yapılarına özel ilgim var.
 - 🌱 Şu sıralar **Veri Yapıları** ve **Nesne Yönelimli Programlama** üzerine çalışıyorum.
-- 📫 Bana ulaşmak için: **[E-posta Adresin]**
+- 📫 Bana ulaşmak için: **[mtg3436@gmail.com]**
 
 ---
 
